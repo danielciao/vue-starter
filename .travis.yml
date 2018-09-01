@@ -19,6 +19,6 @@ deploy:
   api_key:
     secure: d97a369f-2003-480f-8452-e2eec7e71852
   skip_cleanup: true
-  app: vue-starter
+  app: vue-dc
   on:
     repo: danielciao/vue-starter
